@@ -18,23 +18,22 @@ Add `@lxterminal -e sh /home/milton/Desktop/auto_run_from_usb.sh`
 Set the volume level manually then run this: `sudo alsactl store`
 
 --------------------------------------------------------
-# TODO before the burn
 
 ## Sculpture
-[milton] fully assemble the sculpture
+fully assemble the sculpture
 - button
 - solar
 - light (battery leds)
 
 ## Supporting Hardware
-[milton] install a collar on the base of the pole, round plate with holes where you can bolt it on the ground - people may knock it over
+Install a collar on the base of the pole, round plate with holes where you can bolt it on the ground - people may knock it over
 
-[milton] how to prevent this from being stolen
+How to prevent this from being stolen
 
-[milton] modular design for swappable top solar panel but secure against wind etc.
+Modular design for swappable top solar panel but secure against wind etc.
 
 ## Gameday
-[milton] Make sure power solution works - test outside for 3+ days
+Make sure power solution works - test outside for 3+ days
 
 --------------------------------------------------------
 
